@@ -1,0 +1,738 @@
+[Test: 1] Changing instruction nop +631
+[Test: 1] Changing nop to jmp: nop +631 at line: 1
+[Test: 1] Visited: 606 twice
+[Test: 4] Changing instruction jmp +127
+[Test: 4] Ignoring jmp: jmp +127 at line: 4
+[Test: 4] Visited: 10 twice
+[Test: 6] Changing instruction jmp +460
+[Test: 6] Visited: 10 twice
+[Test: 7] Changing instruction jmp +619
+[Test: 7] Ignoring jmp: jmp +619 at line: 7
+[Test: 7] Visited: 10 twice
+[Test: 9] Changing instruction jmp +277
+[Test: 9] Visited: 10 twice
+[Test: 10] Changing instruction nop +83
+[Test: 10] Changing nop to jmp: nop +83 at line: 10
+[Test: 10] Visited: 10 twice
+[Test: 14] Changing instruction jmp +108
+[Test: 14] Ignoring jmp: jmp +108 at line: 14
+[Test: 14] Visited: 10 twice
+[Test: 16] Changing instruction nop +61
+[Test: 16] Visited: 10 twice
+[Test: 17] Changing instruction jmp +485
+[Test: 17] Visited: 10 twice
+[Test: 18] Changing instruction jmp +44
+[Test: 18] Visited: 10 twice
+[Test: 20] Changing instruction jmp +460
+[Test: 20] Visited: 10 twice
+[Test: 23] Changing instruction jmp +12
+[Test: 23] Ignoring jmp: jmp +12 at line: 23
+[Test: 23] Visited: 10 twice
+[Test: 25] Changing instruction jmp +213
+[Test: 25] Visited: 10 twice
+[Test: 28] Changing instruction nop +97
+[Test: 28] Visited: 10 twice
+[Test: 30] Changing instruction jmp +613
+[Test: 30] Visited: 10 twice
+[Test: 33] Changing instruction nop +374
+[Test: 33] Visited: 10 twice
+[Test: 34] Changing instruction jmp +487
+[Test: 34] Visited: 10 twice
+[Test: 35] Changing instruction jmp +1
+[Test: 35] Ignoring jmp: jmp +1 at line: 35
+[Test: 35] Visited: 10 twice
+[Test: 38] Changing instruction jmp +1
+[Test: 38] Ignoring jmp: jmp +1 at line: 38
+[Test: 38] Visited: 10 twice
+[Test: 39] Changing instruction jmp +418
+[Test: 39] Ignoring jmp: jmp +418 at line: 39
+[Test: 39] Visited: 10 twice
+[Test: 42] Changing instruction jmp +1
+[Test: 42] Visited: 10 twice
+[Test: 43] Changing instruction jmp +117
+[Test: 43] Visited: 10 twice
+[Test: 45] Changing instruction nop +539
+[Test: 45] Visited: 10 twice
+[Test: 46] Changing instruction nop +456
+[Test: 46] Visited: 10 twice
+[Test: 47] Changing instruction jmp +191
+[Test: 47] Visited: 10 twice
+[Test: 49] Changing instruction jmp +431
+[Test: 49] Visited: 10 twice
+[Test: 50] Changing instruction jmp +341
+[Test: 50] Visited: 10 twice
+[Test: 55] Changing instruction jmp +152
+[Test: 55] Visited: 10 twice
+[Test: 56] Changing instruction nop +277
+[Test: 56] Visited: 10 twice
+[Test: 57] Changing instruction jmp +394
+[Test: 57] Visited: 10 twice
+[Test: 61] Changing instruction jmp -26
+[Test: 61] Visited: 10 twice
+[Test: 64] Changing instruction jmp +49
+[Test: 64] Visited: 10 twice
+[Test: 67] Changing instruction nop +420
+[Test: 67] Visited: 10 twice
+[Test: 69] Changing instruction jmp +515
+[Test: 69] Visited: 10 twice
+[Test: 70] Changing instruction nop +168
+[Test: 70] Changing nop to jmp: nop +168 at line: 70
+[Test: 70] Visited: 10 twice
+[Test: 72] Changing instruction nop +151
+[Test: 72] Changing nop to jmp: nop +151 at line: 72
+[Test: 72] Visited: 10 twice
+[Test: 74] Changing instruction jmp +504
+[Test: 74] Ignoring jmp: jmp +504 at line: 74
+[Test: 74] Visited: 10 twice
+[Test: 76] Changing instruction jmp +73
+[Test: 76] Visited: 10 twice
+[Test: 80] Changing instruction jmp +143
+[Test: 80] Visited: 10 twice
+[Test: 84] Changing instruction nop +530
+[Test: 84] Visited: 10 twice
+[Test: 85] Changing instruction jmp +265
+[Test: 85] Visited: 10 twice
+[Test: 88] Changing instruction jmp +312
+[Test: 88] Visited: 10 twice
+[Test: 90] Changing instruction jmp -55
+[Test: 90] Visited: 10 twice
+[Test: 91] Changing instruction jmp +430
+[Test: 91] Visited: 10 twice
+[Test: 92] Changing instruction jmp +551
+[Test: 92] Visited: 10 twice
+[Test: 95] Changing instruction nop -25
+[Test: 95] Changing nop to jmp: nop -25 at line: 95
+[Test: 95] Visited: 10 twice
+[Test: 96] Changing instruction jmp +178
+[Test: 96] Ignoring jmp: jmp +178 at line: 96
+[Test: 96] Visited: 10 twice
+[Test: 98] Changing instruction jmp +176
+[Test: 98] Visited: 10 twice
+[Test: 99] Changing instruction jmp +462
+[Test: 99] Ignoring jmp: jmp +462 at line: 99
+[Test: 99] Visited: 10 twice
+[Test: 104] Changing instruction jmp +162
+[Test: 104] Visited: 10 twice
+[Test: 107] Changing instruction jmp +100
+[Test: 107] Ignoring jmp: jmp +100 at line: 107
+[Test: 107] Visited: 10 twice
+[Test: 108] Changing instruction nop +234
+[Test: 108] Visited: 10 twice
+[Test: 110] Changing instruction nop +70
+[Test: 110] Visited: 10 twice
+[Test: 111] Changing instruction nop +112
+[Test: 111] Visited: 10 twice
+[Test: 112] Changing instruction jmp -62
+[Test: 112] Visited: 10 twice
+[Test: 114] Changing instruction jmp +214
+[Test: 114] Visited: 10 twice
+[Test: 115] Changing instruction jmp -38
+[Test: 115] Visited: 10 twice
+[Test: 118] Changing instruction jmp +289
+[Test: 118] Visited: 10 twice
+[Test: 119] Changing instruction nop +6
+[Test: 119] Visited: 10 twice
+[Test: 120] Changing instruction nop +523
+[Test: 120] Visited: 10 twice
+[Test: 121] Changing instruction jmp +286
+[Test: 121] Visited: 10 twice
+[Test: 122] Changing instruction nop -9
+[Test: 122] Changing nop to jmp: nop -9 at line: 122
+[Test: 122] Visited: 10 twice
+[Test: 123] Changing instruction jmp +234
+[Test: 123] Ignoring jmp: jmp +234 at line: 123
+[Test: 123] Visited: 10 twice
+[Test: 124] Changing instruction jmp -74
+[Test: 124] Visited: 10 twice
+[Test: 127] Changing instruction nop -11
+[Test: 127] Visited: 10 twice
+[Test: 128] Changing instruction jmp -37
+[Test: 128] Visited: 10 twice
+[Test: 130] Changing instruction jmp +277
+[Test: 130] Visited: 10 twice
+[Test: 133] Changing instruction jmp +96
+[Test: 133] Ignoring jmp: jmp +96 at line: 133
+[Test: 133] Visited: 10 twice
+[Test: 135] Changing instruction nop +256
+[Test: 135] Visited: 10 twice
+[Test: 137] Changing instruction jmp +389
+[Test: 137] Visited: 10 twice
+[Test: 140] Changing instruction jmp +397
+[Test: 140] Ignoring jmp: jmp +397 at line: 140
+[Test: 140] Visited: 10 twice
+[Test: 141] Changing instruction jmp +477
+[Test: 141] Visited: 10 twice
+[Test: 142] Changing instruction nop +141
+[Test: 142] Changing nop to jmp: nop +141 at line: 142
+[Test: 142] Visited: 283 twice
+[Test: 145] Changing instruction nop +29
+[Test: 145] Changing nop to jmp: nop +29 at line: 145
+[Test: 145] Visited: 517 twice
+[Test: 146] Changing instruction jmp +407
+[Test: 146] Ignoring jmp: jmp +407 at line: 146
+[Test: 146] Visited: 10 twice
+[Test: 148] Changing instruction jmp +243
+[Test: 148] Visited: 10 twice
+[Test: 151] Changing instruction nop +384
+[Test: 151] Changing nop to jmp: nop +384 at line: 151
+[Test: 151] Visited: 10 twice
+[Test: 153] Changing instruction jmp +180
+[Test: 153] Ignoring jmp: jmp +180 at line: 153
+[Test: 153] Visited: 10 twice
+[Test: 154] Changing instruction jmp +372
+[Test: 154] Visited: 10 twice
+[Test: 155] Changing instruction jmp +44
+[Test: 155] Ignoring jmp: jmp +44 at line: 155
+[Test: 155] Visited: 10 twice
+[Test: 157] Changing instruction nop +234
+[Test: 157] Visited: 10 twice
+[Test: 159] Changing instruction jmp +343
+[Test: 159] Visited: 10 twice
+[Test: 161] Changing instruction jmp -91
+[Test: 161] Ignoring jmp: jmp -91 at line: 161
+[Test: 161] Visited: 10 twice
+[Test: 164] Changing instruction jmp -9
+[Test: 164] Visited: 10 twice
+[Test: 166] Changing instruction nop +321
+[Test: 166] Changing nop to jmp: nop +321 at line: 166
+[Test: 166] Visited: 487 twice
+[Test: 167] Changing instruction jmp +143
+[Test: 167] Ignoring jmp: jmp +143 at line: 167
+[Test: 167] Visited: 10 twice
+[Test: 168] Changing instruction jmp +278
+[Test: 168] Visited: 10 twice
+[Test: 169] Changing instruction jmp -38
+[Test: 169] Visited: 10 twice
+[Test: 171] Changing instruction nop +67
+[Test: 171] Visited: 10 twice
+[Test: 173] Changing instruction jmp +445
+[Test: 173] Visited: 10 twice
+[Test: 174] Changing instruction nop +143
+[Test: 174] Visited: 10 twice
+[Test: 178] Changing instruction jmp +39
+[Test: 178] Visited: 10 twice
+[Test: 179] Changing instruction jmp -24
+[Test: 179] Visited: 10 twice
+[Test: 180] Changing instruction nop +393
+[Test: 180] Visited: 10 twice
+[Test: 184] Changing instruction jmp -134
+[Test: 184] Visited: 10 twice
+[Test: 189] Changing instruction jmp +291
+[Test: 189] Visited: 10 twice
+[Test: 193] Changing instruction jmp -183
+[Test: 193] Ignoring jmp: jmp -183 at line: 193
+[Test: 193] Visited: 10 twice
+[Test: 198] Changing instruction jmp +205
+[Test: 198] Visited: 10 twice
+[Test: 201] Changing instruction jmp +45
+[Test: 201] Ignoring jmp: jmp +45 at line: 201
+[Test: 201] Visited: 10 twice
+[Test: 206] Changing instruction jmp +289
+[Test: 206] Visited: 10 twice
+[Test: 210] Changing instruction jmp -50
+[Test: 210] Ignoring jmp: jmp -50 at line: 210
+[Test: 210] Visited: 10 twice
+[Test: 213] Changing instruction jmp +419
+[Test: 213] Visited: 10 twice
+[Test: 215] Changing instruction jmp +333
+[Test: 215] Ignoring jmp: jmp +333 at line: 215
+[Test: 215] Visited: 10 twice
+[Test: 216] Changing instruction jmp +250
+[Test: 216] Visited: 10 twice
+[Test: 219] Changing instruction jmp -175
+[Test: 219] Visited: 10 twice
+[Test: 221] Changing instruction nop +179
+[Test: 221] Visited: 10 twice
+[Test: 222] Changing instruction jmp -57
+[Test: 222] Visited: 10 twice
+[Test: 223] Changing instruction jmp +243
+[Test: 223] Visited: 10 twice
+[Test: 226] Changing instruction nop -149
+[Test: 226] Visited: 10 twice
+[Test: 227] Changing instruction jmp +1
+[Test: 227] Visited: 10 twice
+[Test: 228] Changing instruction jmp -97
+[Test: 228] Visited: 10 twice
+[Test: 232] Changing instruction nop +6
+[Test: 232] Changing nop to jmp: nop +6 at line: 232
+[Test: 232] Visited: 517 twice
+[Test: 233] Changing instruction jmp -223
+[Test: 233] Ignoring jmp: jmp -223 at line: 233
+[Test: 233] Visited: 10 twice
+[Test: 235] Changing instruction nop +115
+[Test: 235] Visited: 10 twice
+[Test: 237] Changing instruction jmp -77
+[Test: 237] Visited: 10 twice
+[Test: 241] Changing instruction jmp +276
+[Test: 241] Visited: 10 twice
+[Test: 245] Changing instruction jmp +201
+[Test: 245] Visited: 10 twice
+[Test: 249] Changing instruction jmp +54
+[Test: 249] Ignoring jmp: jmp +54 at line: 249
+[Test: 249] Visited: 10 twice
+[Test: 251] Changing instruction nop -96
+[Test: 251] Visited: 10 twice
+[Test: 254] Changing instruction jmp +339
+[Test: 254] Visited: 10 twice
+[Test: 256] Changing instruction jmp +317
+[Test: 256] Ignoring jmp: jmp +317 at line: 256
+[Test: 256] Visited: 10 twice
+[Test: 261] Changing instruction jmp +89
+[Test: 261] Visited: 10 twice
+[Test: 264] Changing instruction jmp +60
+[Test: 264] Ignoring jmp: jmp +60 at line: 264
+[Test: 264] Visited: 10 twice
+[Test: 265] Changing instruction jmp +239
+[Test: 265] Visited: 10 twice
+[Test: 268] Changing instruction jmp +82
+[Test: 268] Visited: 10 twice
+[Test: 270] Changing instruction jmp +1
+[Test: 270] Visited: 10 twice
+[Test: 271] Changing instruction nop +3
+[Test: 271] Visited: 10 twice
+[Test: 272] Changing instruction jmp +1
+[Test: 272] Visited: 10 twice
+[Test: 273] Changing instruction jmp +311
+[Test: 273] Visited: 10 twice
+[Test: 274] Changing instruction jmp +142
+[Test: 274] Ignoring jmp: jmp +142 at line: 274
+[Test: 274] Visited: 10 twice
+[Test: 276] Changing instruction nop +253
+[Test: 276] Visited: 10 twice
+[Test: 277] Changing instruction jmp +341
+[Test: 277] Visited: 10 twice
+[Test: 281] Changing instruction jmp -182
+[Test: 281] Ignoring jmp: jmp -182 at line: 281
+[Test: 281] Visited: 10 twice
+[Test: 282] Changing instruction jmp +184
+[Test: 282] Visited: 10 twice
+[Test: 283] Changing instruction jmp +331
+[Test: 283] Ignoring jmp: jmp +331 at line: 283
+[Test: 283] Visited: 10 twice
+[Test: 285] Changing instruction jmp -68
+[Test: 285] Visited: 10 twice
+[Test: 286] Changing instruction nop -209
+[Test: 286] Visited: 10 twice
+[Test: 289] Changing instruction jmp -23
+[Test: 289] Visited: 10 twice
+[Test: 294] Changing instruction jmp -238
+[Test: 294] Visited: 10 twice
+[Test: 295] Changing instruction jmp +1
+[Test: 295] Visited: 10 twice
+[Test: 297] Changing instruction jmp +45
+[Test: 297] Visited: 10 twice
+[Test: 299] Changing instruction jmp +1
+[Test: 299] Visited: 10 twice
+[Test: 302] Changing instruction jmp -73
+[Test: 302] Visited: 10 twice
+[Test: 306] Changing instruction jmp +294
+[Test: 306] Ignoring jmp: jmp +294 at line: 306
+[Test: 306] Visited: 10 twice
+[Test: 309] Changing instruction jmp +309
+[Test: 309] Visited: 10 twice
+[Test: 310] Changing instruction nop +316
+[Test: 310] Changing nop to jmp: nop +316 at line: 310
+[Test: 310] Visited: 10 twice
+[Test: 312] Changing instruction jmp +1
+[Test: 312] Ignoring jmp: jmp +1 at line: 312
+[Test: 312] Visited: 10 twice
+[Test: 313] Changing instruction jmp +324
+[Test: 313] Ignoring jmp: jmp +324 at line: 313
+[Test: 313] Visited: 10 twice
+[Test: 316] Changing instruction jmp -99
+[Test: 316] Visited: 10 twice
+[Test: 317] Changing instruction nop -103
+[Test: 317] Changing nop to jmp: nop -103 at line: 317
+[Test: 317] Visited: 10 twice
+[Test: 319] Changing instruction jmp -226
+[Test: 319] Ignoring jmp: jmp -226 at line: 319
+[Test: 319] Visited: 10 twice
+[Test: 320] Changing instruction nop +317
+[Test: 320] Visited: 10 twice
+[Test: 321] Changing instruction nop +316
+[Test: 321] Visited: 10 twice
+[Test: 323] Changing instruction jmp -192
+[Test: 323] Visited: 10 twice
+[Test: 325] Changing instruction nop -47
+[Test: 325] Changing nop to jmp: nop -47 at line: 325
+[Test: 325] Visited: 278 twice
+[Test: 326] Changing instruction jmp -305
+[Test: 326] Ignoring jmp: jmp -305 at line: 326
+[Test: 326] Visited: 10 twice
+[Test: 327] Changing instruction jmp -81
+[Test: 327] Visited: 10 twice
+[Test: 328] Changing instruction nop -197
+[Test: 328] Changing nop to jmp: nop -197 at line: 328
+[Test: 328] Visited: 131 twice
+[Test: 329] Changing instruction nop +249
+[Test: 329] Changing nop to jmp: nop +249 at line: 329
+[Test: 329] Visited: 10 twice
+[Test: 330] Changing instruction jmp +157
+[Test: 330] Ignoring jmp: jmp +157 at line: 330
+[Test: 330] Visited: 10 twice
+[Test: 331] Changing instruction nop -85
+[Test: 331] Visited: 10 twice
+[Test: 332] Changing instruction jmp -246
+[Test: 332] Visited: 10 twice
+[Test: 336] Changing instruction jmp -181
+[Test: 336] Ignoring jmp: jmp -181 at line: 336
+[Test: 336] Visited: 10 twice
+[Test: 338] Changing instruction nop +164
+[Test: 338] Visited: 10 twice
+[Test: 341] Changing instruction jmp -199
+[Test: 341] Visited: 10 twice
+[Test: 346] Changing instruction jmp +134
+[Test: 346] Visited: 10 twice
+[Test: 349] Changing instruction jmp +18
+[Test: 349] Visited: 10 twice
+[Test: 352] Changing instruction jmp +254
+[Test: 352] Visited: 10 twice
+[Test: 356] Changing instruction jmp -346
+[Test: 356] Visited: 10 twice
+[Test: 361] Changing instruction jmp -33
+[Test: 361] Ignoring jmp: jmp -33 at line: 361
+[Test: 361] Visited: 10 twice
+[Test: 366] Changing instruction jmp -224
+[Test: 366] Visited: 10 twice
+[Test: 368] Changing instruction nop -73
+[Test: 368] Visited: 10 twice
+[Test: 371] Changing instruction jmp +213
+[Test: 371] Visited: 10 twice
+[Test: 372] Changing instruction jmp +1
+[Test: 372] Visited: 10 twice
+[Test: 375] Changing instruction jmp +66
+[Test: 375] Visited: 10 twice
+[Test: 376] Changing instruction jmp +126
+[Test: 376] Ignoring jmp: jmp +126 at line: 376
+[Test: 376] Visited: 10 twice
+[Test: 380] Changing instruction jmp -4
+[Test: 380] Visited: 10 twice
+[Test: 385] Changing instruction jmp -195
+[Test: 385] Ignoring jmp: jmp -195 at line: 385
+[Test: 385] Visited: 10 twice
+[Test: 390] Changing instruction jmp -340
+[Test: 390] Visited: 10 twice
+[Test: 394] Changing instruction jmp -308
+[Test: 394] Visited: 10 twice
+[Test: 395] Changing instruction jmp +1
+[Test: 395] Visited: 10 twice
+[Test: 397] Changing instruction jmp +1
+[Test: 397] Visited: 10 twice
+[Test: 398] Changing instruction nop +104
+[Test: 398] Visited: 10 twice
+[Test: 399] Changing instruction jmp +233
+[Test: 399] Visited: 10 twice
+[Test: 400] Changing instruction jmp -24
+[Test: 400] Ignoring jmp: jmp -24 at line: 400
+[Test: 400] Visited: 10 twice
+[Test: 402] Changing instruction jmp -367
+[Test: 402] Visited: 10 twice
+[Test: 404] Changing instruction jmp +107
+[Test: 404] Visited: 10 twice
+[Test: 406] Changing instruction jmp +89
+[Test: 406] Visited: 10 twice
+[Test: 407] Changing instruction nop -381
+[Test: 407] Visited: 10 twice
+[Test: 408] Changing instruction jmp +1
+[Test: 408] Visited: 10 twice
+[Test: 410] Changing instruction nop +233
+[Test: 410] Visited: 10 twice
+[Test: 411] Changing instruction jmp +238
+[Test: 411] Visited: 10 twice
+[Test: 415] Changing instruction jmp -290
+[Test: 415] Visited: 10 twice
+[Test: 416] Changing instruction nop -323
+[Test: 416] Changing nop to jmp: nop -323 at line: 416
+[Test: 416] Visited: 93 twice
+[Test: 420] Changing instruction jmp -315
+[Test: 420] Ignoring jmp: jmp -315 at line: 420
+[Test: 420] Visited: 10 twice
+[Test: 422] Changing instruction nop +196
+[Test: 422] Visited: 10 twice
+[Test: 425] Changing instruction jmp -49
+[Test: 425] Visited: 10 twice
+[Test: 427] Changing instruction jmp +1
+[Test: 427] Ignoring jmp: jmp +1 at line: 427
+[Test: 427] Visited: 10 twice
+[Test: 428] Changing instruction jmp -47
+[Test: 428] Ignoring jmp: jmp -47 at line: 428
+[Test: 428] Visited: 10 twice
+[Test: 430] Changing instruction nop -120
+[Test: 430] Visited: 10 twice
+[Test: 431] Changing instruction jmp -413
+[Test: 431] Visited: 10 twice
+[Test: 433] Changing instruction jmp -284
+[Test: 433] Ignoring jmp: jmp -284 at line: 433
+[Test: 433] Visited: 10 twice
+[Test: 435] Changing instruction jmp -212
+[Test: 435] Visited: 10 twice
+[Test: 436] Changing instruction nop +39
+[Test: 436] Changing nop to jmp: nop +39 at line: 436
+[Test: 436] Visited: 10 twice
+[Test: 437] Changing instruction nop -87
+[Test: 437] Changing nop to jmp: nop -87 at line: 437
+[Test: 437] Visited: 10 twice
+[Test: 439] Changing instruction jmp -122
+[Test: 439] Ignoring jmp: jmp -122 at line: 439
+[Test: 439] Visited: 10 twice
+[Test: 440] Changing instruction jmp -90
+[Test: 440] Visited: 10 twice
+[Test: 441] Changing instruction nop +76
+[Test: 441] Changing nop to jmp: nop +76 at line: 441
+[Test: 441] Visited: 10 twice
+[Test: 442] Changing instruction jmp -277
+[Test: 442] Ignoring jmp: jmp -277 at line: 442
+[Test: 442] Visited: 10 twice
+[Test: 445] Changing instruction jmp +92
+[Test: 445] Visited: 10 twice
+[Test: 446] Changing instruction nop +168
+[Test: 446] Changing nop to jmp: nop +168 at line: 446
+[Test: 446] Visited: 10 twice
+[Test: 449] Changing instruction jmp +26
+[Test: 449] Ignoring jmp: jmp +26 at line: 449
+[Test: 449] Visited: 10 twice
+[Test: 450] Changing instruction jmp -270
+[Test: 450] Visited: 10 twice
+[Test: 451] Changing instruction jmp +1
+[Test: 451] Visited: 10 twice
+[Test: 454] Changing instruction jmp +41
+[Test: 454] Visited: 10 twice
+[Test: 456] Changing instruction jmp +144
+[Test: 456] Visited: 10 twice
+[Test: 457] Changing instruction jmp +149
+[Test: 457] Ignoring jmp: jmp +149 at line: 457
+[Test: 457] Visited: 10 twice
+[Test: 459] Changing instruction jmp -260
+[Test: 459] Visited: 10 twice
+[Test: 462] Changing instruction jmp +105
+[Test: 462] Ignoring jmp: jmp +105 at line: 462
+[Test: 462] Visited: 10 twice
+[Test: 465] Changing instruction jmp -316
+[Test: 465] Visited: 10 twice
+[Test: 469] Changing instruction nop -289
+[Test: 469] Changing nop to jmp: nop -289 at line: 469
+[Test: 469] Visited: 400 twice
+[Test: 470] Changing instruction jmp -332
+[Test: 470] Ignoring jmp: jmp -332 at line: 470
+[Test: 470] Visited: 10 twice
+[Test: 471] Changing instruction nop -281
+[Test: 471] Visited: 10 twice
+[Test: 472] Changing instruction nop -379
+[Test: 472] Visited: 10 twice
+[Test: 473] Changing instruction nop +62
+[Test: 473] Visited: 10 twice
+[Test: 474] Changing instruction jmp -456
+[Test: 474] Visited: 10 twice
+[Test: 477] Changing instruction jmp +52
+[Test: 477] Ignoring jmp: jmp +52 at line: 477
+[Test: 477] Visited: 10 twice
+[Test: 479] Changing instruction jmp -374
+[Test: 479] Visited: 10 twice
+[Test: 482] Changing instruction jmp +53
+[Test: 482] Visited: 10 twice
+[Test: 484] Changing instruction nop -407
+[Test: 484] Visited: 10 twice
+[Test: 486] Changing instruction jmp +9
+[Test: 486] Visited: 10 twice
+[Test: 490] Changing instruction jmp +1
+[Test: 490] Ignoring jmp: jmp +1 at line: 490
+[Test: 490] Visited: 10 twice
+[Test: 491] Changing instruction jmp -55
+[Test: 491] Ignoring jmp: jmp -55 at line: 491
+[Test: 491] Visited: 10 twice
+[Test: 494] Changing instruction jmp -280
+[Test: 494] Visited: 10 twice
+[Test: 495] Changing instruction jmp +1
+[Test: 495] Visited: 10 twice
+[Test: 497] Changing instruction nop -173
+[Test: 497] Visited: 10 twice
+[Test: 498] Changing instruction jmp -131
+[Test: 498] Visited: 10 twice
+[Test: 501] Changing instruction jmp +105
+[Test: 501] Visited: 10 twice
+[Test: 502] Changing instruction jmp -56
+[Test: 502] Ignoring jmp: jmp -56 at line: 502
+[Test: 502] Visited: 10 twice
+[Test: 503] Changing instruction jmp -485
+[Test: 503] Visited: 10 twice
+[Test: 505] Changing instruction nop -389
+[Test: 505] Visited: 10 twice
+[Test: 508] Changing instruction jmp -482
+[Test: 508] Visited: 10 twice
+[Test: 509] Changing instruction nop -418
+[Test: 509] Visited: 10 twice
+[Test: 510] Changing instruction jmp -394
+[Test: 510] Visited: 10 twice
+[Test: 512] Changing instruction jmp -435
+[Test: 512] Visited: 10 twice
+[Test: 514] Changing instruction nop -172
+[Test: 514] Visited: 10 twice
+[Test: 516] Changing instruction jmp -159
+[Test: 516] Visited: 10 twice
+[Test: 517] Changing instruction jmp +67
+[Test: 517] Ignoring jmp: jmp +67 at line: 517
+[Test: 517] Visited: 10 twice
+[Test: 520] Changing instruction jmp +15
+[Test: 520] Visited: 10 twice
+[Test: 521] Changing instruction nop -405
+[Test: 521] Visited: 10 twice
+[Test: 522] Changing instruction jmp -406
+[Test: 522] Visited: 10 twice
+[Test: 523] Changing instruction jmp +1
+[Test: 523] Visited: 10 twice
+[Test: 525] Changing instruction jmp -118
+[Test: 525] Visited: 10 twice
+[Test: 527] Changing instruction jmp -385
+[Test: 527] Ignoring jmp: jmp -385 at line: 527
+[Test: 527] Visited: 10 twice
+[Test: 528] Changing instruction jmp +90
+[Test: 528] Visited: 10 twice
+[Test: 530] Changing instruction jmp +10
+[Test: 530] Ignoring jmp: jmp +10 at line: 530
+[Test: 530] Visited: 10 twice
+[Test: 532] Changing instruction nop -315
+[Test: 532] Visited: 10 twice
+[Test: 534] Changing instruction jmp -167
+[Test: 534] Visited: 10 twice
+[Test: 535] Changing instruction jmp +49
+[Test: 535] Visited: 10 twice
+[Test: 536] Changing instruction jmp -49
+[Test: 536] Visited: 10 twice
+[Test: 537] Changing instruction jmp -275
+[Test: 537] Ignoring jmp: jmp -275 at line: 537
+[Test: 537] Visited: 10 twice
+[Test: 539] Changing instruction jmp -136
+[Test: 539] Visited: 10 twice
+[Test: 542] Changing instruction jmp -259
+[Test: 542] Ignoring jmp: jmp -259 at line: 542
+[Test: 542] Visited: 10 twice
+[Test: 544] Changing instruction nop -370
+[Test: 544] Visited: 10 twice
+[Test: 547] Changing instruction jmp -45
+[Test: 547] Visited: 10 twice
+[Test: 549] Changing instruction jmp -542
+[Test: 549] Ignoring jmp: jmp -542 at line: 549
+[Test: 549] Visited: 10 twice
+[Test: 550] Changing instruction nop -39
+[Test: 550] Visited: 10 twice
+[Test: 551] Changing instruction nop -16
+[Test: 551] Visited: 10 twice
+[Test: 552] Changing instruction jmp +66
+[Test: 552] Visited: 10 twice
+[Test: 554] Changing instruction nop -59
+[Test: 554] Changing nop to jmp: nop -59 at line: 554
+[Test: 554] Visited: 584 twice
+[Test: 557] Changing instruction jmp -91
+[Test: 557] Ignoring jmp: jmp -91 at line: 557
+[Test: 557] Visited: 10 twice
+[Test: 560] Changing instruction jmp -400
+[Test: 560] Visited: 10 twice
+[Test: 562] Changing instruction jmp -162
+[Test: 562] Ignoring jmp: jmp -162 at line: 562
+[Test: 562] Visited: 10 twice
+[Test: 563] Changing instruction nop -346
+[Test: 563] Visited: 10 twice
+[Test: 566] Changing instruction jmp -115
+[Test: 566] Visited: 10 twice
+[Test: 567] Changing instruction jmp -141
+[Test: 567] Ignoring jmp: jmp -141 at line: 567
+[Test: 567] Visited: 10 twice
+[Test: 570] Changing instruction nop -179
+[Test: 570] Visited: 10 twice
+[Test: 572] Changing instruction jmp -306
+[Test: 572] Visited: 10 twice
+[Test: 575] Changing instruction jmp -115
+[Test: 575] Ignoring jmp: jmp -115 at line: 575
+[Test: 575] Visited: 10 twice
+[Test: 576] Changing instruction nop -47
+[Test: 576] Visited: 10 twice
+[Test: 577] Changing instruction jmp -82
+[Test: 577] Visited: 10 twice
+[Test: 580] Changing instruction jmp -139
+[Test: 580] Ignoring jmp: jmp -139 at line: 580
+[Test: 580] Visited: 10 twice
+[Test: 583] Changing instruction jmp -241
+[Test: 583] Visited: 10 twice
+[Test: 584] Changing instruction jmp +1
+[Test: 584] Ignoring jmp: jmp +1 at line: 584
+[Test: 584] Visited: 10 twice
+[Test: 587] Changing instruction jmp -309
+[Test: 587] Ignoring jmp: jmp -309 at line: 587
+[Test: 587] Visited: 10 twice
+[Test: 591] Changing instruction jmp +1
+[Test: 591] Visited: 10 twice
+[Test: 592] Changing instruction jmp -369
+[Test: 592] Visited: 10 twice
+[Test: 594] Changing instruction jmp +1
+[Test: 594] Visited: 10 twice
+[Test: 596] Changing instruction jmp -427
+[Test: 596] Visited: 10 twice
+[Test: 599] Changing instruction jmp -26
+[Test: 599] Visited: 10 twice
+[Test: 601] Changing instruction nop -121
+[Test: 601] Changing nop to jmp: nop -121 at line: 601
+[Test: 601] Visited: 10 twice
+[Test: 603] Changing instruction jmp -86
+[Test: 603] Ignoring jmp: jmp -86 at line: 603
+[Test: 603] Visited: 10 twice
+[Test: 604] Changing instruction nop -294
+[Test: 604] Visited: 10 twice
+[Test: 605] Changing instruction jmp -391
+[Test: 605] Visited: 10 twice
+[Test: 607] Changing instruction nop -96
+[Test: 607] Changing nop to jmp: nop -96 at line: 607
+[Test: 607] Visited: 466 twice
+[Test: 608] Changing instruction nop -325
+[Test: 608] Changing nop to jmp: nop -325 at line: 608
+[Test: 608] Visited: 283 twice
+[Test: 609] Changing instruction nop -134
+[Test: 609] Changing nop to jmp: nop -134 at line: 609
+[Test: 609] Visited: 475 twice
+[Test: 610] Changing instruction jmp -355
+[Test: 610] Ignoring jmp: jmp -355 at line: 610
+[Test: 610] Visited: 10 twice
+[Test: 612] Changing instruction jmp +1
+[Test: 612] Visited: 10 twice
+[Test: 613] Changing instruction jmp -396
+[Test: 613] Visited: 10 twice
+[Test: 614] Changing instruction nop -440
+[Test: 614] Changing nop to jmp: nop -440 at line: 614
+[Test: 614] Visited: 517 twice
+[Test: 615] Changing instruction jmp -89
+[Test: 615] Ignoring jmp: jmp -89 at line: 615
+[Test: 615] Visited: 10 twice
+[Test: 617] Changing instruction jmp -437
+[Test: 617] Visited: 10 twice
+[Test: 621] Changing instruction jmp -603
+[Test: 621] Visited: 10 twice
+[Test: 625] Changing instruction jmp -339
+[Test: 625] Visited: 10 twice
+[Test: 628] Changing instruction nop -168
+[Test: 628] Changing nop to jmp: nop -168 at line: 628
+[Test: 628] Visited: 10 twice
+[Test: 629] Changing instruction nop -253
+[Test: 629] Changing nop to jmp: nop -253 at line: 629
+[Test: 629] Visited: 10 twice
+[Test: 630] Changing instruction jmp -198
+[Test: 630] Ignoring jmp: jmp -198 at line: 630
+[Test: 630] Visited: 10 twice
+[Test: 631] Changing instruction jmp -613
+[Test: 631] Visited: 10 twice
+[Test: 632] Changing instruction jmp -346
+[Test: 632] Visited: 10 twice
+[Test: 636] Changing instruction jmp -294
+[Test: 636] Visited: 10 twice
+[Test: 637] Changing instruction jmp -423
+[Test: 637] Ignoring jmp: jmp -423 at line: 637
+[Test: 637] Visited: 10 twice
+[Test: 641] Changing instruction jmp +1
+[Test: 641] Visited: 10 twice
+[Test: 642] Changing instruction jmp -49
+[Test: 642] Visited: 10 twice
+[Test: 647] Changing instruction jmp -522
+[Test: 647] Visited: 10 twice
+[Test: 648] Changing instruction jmp -5
+[Test: 648] Visited: 10 twice
+[Test: 653] Changing instruction jmp +1
+[Test: 653] Visited: 10 twice
+Acc final Value: -1
